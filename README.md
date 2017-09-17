@@ -132,3 +132,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
 - [ ] [Raspberry Pi](https://www.raspberrypi.org/)
+
+## Linux
+
+- [ ] [creating debian package](https://github.com/xeon-zolt/learn-1/blob/creating-deb-package/Linux/DEB%20package%20creation.md)
