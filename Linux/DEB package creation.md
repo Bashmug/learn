@@ -3,7 +3,8 @@
 ### requirements
 
 - dpkg 
-###Method
+
+### Method
 
 1.Create a directory to build your packages in. Create a directory structure for making multiple packages under "deb" (or whatever).
 
