@@ -81,6 +81,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Web2Py](http://www.web2py.com/)
 - [ ] [Django](https://www.djangoproject.com/)
 - [ ] [Flask](http://flask.pocoo.org/)
+  - [ ] [Flask videos](https://github.com/xeon-zolt/learn-1/blob/master/flask/flask.md)
 - [ ] [Pyramid](http://www.pylonsproject.org/)
 - [ ] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
 
